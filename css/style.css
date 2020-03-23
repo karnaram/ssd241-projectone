@@ -1,0 +1,27 @@
+body{
+	background: #fdeded;;
+}
+.div{
+	width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #e4cdcd;
+
+}
+image{
+	max-width: 100%;
+}
+.h1{
+    font-size: 60px;
+}
+span{
+	
+color: blueviolet;
+	
+text-transform: uppercase;
+}
+p{
+	font-size: 20px;
+    line-height: 1.5;
+    color: #48291d;
+}
